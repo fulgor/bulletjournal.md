@@ -8,7 +8,10 @@ This project is no software. It is about the idea how to use the concept of a [b
 * there are no colors
 
 ## Views
+See templates/
+
 * future log
+* year
 * month
 * daily tasklist
 * projects - indexnumbers: [1]
@@ -28,6 +31,12 @@ Keys need 4 spaces prefix to be usable formatted
     x   [1] Write README.md for bulletjournal.md
     !x  Present for Peter
     o   Peter's birthday party
+
+## Templates/
+These templates are available to copy into your bulltejournal.md:
+
+* 2018-year.md
+* month.md
 
 ## Tipps And Tricks
 * Use linux command 'cal' to create calendars as text
