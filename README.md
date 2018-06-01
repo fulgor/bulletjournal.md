@@ -13,7 +13,7 @@ This project is no software. It is about the idea how to use the concept of a bu
 * daily tasklist
 * projects - indexnumbers: [1]
 * Keys: (4 spaces prefix)
-
+  
     .  task [2]
     X  done
     >  postponed
