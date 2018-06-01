@@ -1,7 +1,7 @@
 # bulletjournal.md
 Bullet Journal in an plain textfile with Markdown formatting
 
-This project is no software. It is about the idea how to use the concept of a bulletjournal in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). 
+This project is no software. It is about the idea how to use the concept of a [bulletjournal](http://bulletjournal.com/) in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). 
 
 ## Limitations
 * in a file there are no pagenumbers for an index
@@ -12,8 +12,10 @@ This project is no software. It is about the idea how to use the concept of a bu
 * month
 * daily tasklist
 * projects - indexnumbers: [1]
-* Keys: (4 spaces prefix)
-  
+
+## Keys
+Keys need 4 spaces prefix to be usable formatted
+
     .  task [2]
     X  done
     >  postponed
