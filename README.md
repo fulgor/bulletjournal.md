@@ -8,7 +8,7 @@ This project is no software. It is about the idea how to use the concept of a [b
 * there are no colors
 
 ## Views
-See templates/
+See [templates/](templates)
 
 * future log
 * year
@@ -29,13 +29,13 @@ Keys need 4 spaces prefix to be usable formatted
     .   check yesterdays list
     >   call webmaster
     x   [1] Write README.md for bulletjournal.md
-    !x  Present for Peter
+    x!  Present for Peter
     o   Peter's birthday party
 
 ## Templates/
 These templates are available to copy into your bulltejournal.md:
 
-* 2018-year.md
+* Year: 2018, 2018
 * month.md
 
 ## Tipps And Tricks
