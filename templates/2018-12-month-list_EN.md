@@ -1,9 +1,12 @@
+======
+2018
+======
 
 January
 ------------
 
                                 January 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
      1          2          3          4          5          6          7
      8          9         10         11         12         13         14
     15         16         17         18         19         20         21
@@ -47,7 +50,7 @@ February
 ------------
 
                                February 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                       1          2          3          4
      5          6          7          8          9         10         11
     12         13         14         15         16         17         18
@@ -88,7 +91,7 @@ March
 ------------
 
                                  March 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                       1          2          3          4
      5          6          7          8          9         10         11
     12         13         14         15         16         17         18
@@ -132,7 +135,7 @@ April
 ------------
 
                                  April 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                                                        1
      2          3          4          5          6          7          8
      9         10         11         12         13         14         15
@@ -176,7 +179,7 @@ May
 ------------
 
                                   May 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                 1          2          3          4          5          6
      7          8          9         10         11         12         13
     14         15         16         17         18         19         20
@@ -220,7 +223,7 @@ June
 ------------
 
                                  June 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                                  1          2          3
      4          5          6          7          8          9         10
     11         12         13         14         15         16         17
@@ -263,7 +266,7 @@ July
 ------------
 
                                  July 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                                                        1
      2          3          4          5          6          7          8
      9         10         11         12         13         14         15
@@ -308,7 +311,7 @@ August
 ------------
 
                                 August 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                            1          2          3          4          5
      6          7          8          9         10         11         12
     13         14         15         16         17         18         19
@@ -352,7 +355,7 @@ September
 ------------
 
                                September 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                                             1          2
      3          4          5          6          7          8          9
     10         11         12         13         14         15         16
@@ -395,7 +398,7 @@ October
 ------------
 
                                 October 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
      1          2          3          4          5          6          7
      8          9         10         11         12         13         14
     15         16         17         18         19         20         21
@@ -439,7 +442,7 @@ November
 ------------
 
                                November 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                       1          2          3          4
      5          6          7          8          9         10         11
     12         13         14         15         16         17         18
@@ -482,7 +485,7 @@ December
 ------------
 
                                December 2018
-  Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
+    Monday    Tuesday   Wednesday   Thursday    Friday    Saturday    Sunday
                                                             1          2
      3          4          5          6          7          8          9
     10         11         12         13         14         15         16
