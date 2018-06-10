@@ -34,7 +34,7 @@ Keys need 4 spaces prefix to be formatted
 ## Views
 
 view    |  templates  |  script
------------------------------------
+--------|-------------|----------
 future log  | no  |  no
 year   |  yes  | yes
 month  | yes   | yes
