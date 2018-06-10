@@ -53,6 +53,7 @@ Use the [script](scripts) in a terminal like this:
 
 * Use this script to create a bullet journal textfile for a whole year.
 * The Language of textfile follows the **locale** of your OS.
+* See [standard-output.md](https://github.com/fulgor/bulletjournal.md/blob/master/scripts/standard-output.md) of bjmd.py when options are unaltered on a system with locale EN.
 * Settings (that you may change in the script, of course):
   * prefix = 4 blanks before day in shortlist
   * suffix = 2 blanks after weekday list
