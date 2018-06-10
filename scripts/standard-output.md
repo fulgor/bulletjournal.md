@@ -1,3 +1,8 @@
+>
+> This is what bjmd.py creates, when options are unaltered on a system with locale EN.
+>
+
+
 # 2018
 
 ## Keys
@@ -34,4 +39,4 @@
     01 Thu  
     02 Fri  
     03 Sat  
- 
+    ... 
