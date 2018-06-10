@@ -14,7 +14,7 @@ This project is not about software in the first place. It is about the idea usin
 
 ## Keys
 
-Keys need 4 spaces prefix to be usable formatted
+Keys need 4 spaces prefix to be formatted
 
     .  task [2]
     X  done
@@ -24,7 +24,7 @@ Keys need 4 spaces prefix to be usable formatted
 
 **Example: daily tasklist:**
 
-    .   check yesterdays list
+    .   check yesterday's list
     >   call webmaster
     x   [1] Write README.md for bulletjournal.md
     x!  Present for Peter
@@ -33,11 +33,14 @@ Keys need 4 spaces prefix to be usable formatted
 
 ## Views
 
-* future log (not yet)
-* year (templates | script)
-* month  (templates | script)
-* daily tasklist  (templates | script)
-* projects - indexnumbers: [1] (not yet)
+view    |  templates  |  script
+-----------------------------------
+future log  | no  |  no
+year   |  yes  | yes
+month  | yes   | yes
+daily tasklist   | yes   | yes
+projects    | no   | no
+indexnumbers: [1]    | no  | no
 
 
 ## Templates
