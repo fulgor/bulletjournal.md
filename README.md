@@ -1,7 +1,7 @@
 # bulletjournal.md
 Python script to create a bullet journal in an plain textfile with Markdown formatting
 
-This project is not about software in the first place. It is about the idea using the concept of a [bulletjournal](http://bulletjournal.com/) in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). In addition to templates, there is a [python script](#python-script-bjmdpy) to create templates on your own.
+This project is not about software in the first place. It is about the idea of using the concept of a [bulletjournal](http://bulletjournal.com/) in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). In addition to templates, there is a [python script](#python-script-bjmdpy) to create templates on your own.
 
 ## TOC
 * [Keys](#keys)
