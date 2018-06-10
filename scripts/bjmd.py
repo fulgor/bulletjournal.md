@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # author: frag.fulgor@gmail.com
-# repo: https://github.com/fulgor/bulletjournal.md/scripts/bjmd.py
+# repo: https://github.com/fulgor/bulletjournal.md/blob/master/scripts/bjmd.py
 
 
 # IMPORT MODULES
