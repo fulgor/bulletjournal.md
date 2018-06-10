@@ -1,22 +1,19 @@
 # bulletjournal.md
 Python script to create a bullet journal in an plain textfile with Markdown formatting
 
-This project is not about software in the first place. It is about the idea using the concept of a [bulletjournal](http://bulletjournal.com/) in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). In addition to templates, there is a [python script](#python-script-bjmd.py) to create templates on your own.
+This project is not about software in the first place. It is about the idea using the concept of a [bulletjournal](http://bulletjournal.com/) in a plain textfile. The second idea is to use [markdown-formatting](https://daringfireball.net/projects/markdown/). Thus, the bulletjournal-file could be used with a markdown-editor or copied into a CMS like [yellow](https://github.com/datenstrom/yellow). In addition to templates, there is a [python script](#python-script-bjmdpy) to create templates on your own.
 
-## Limitations
-* in a file there are no pagenumbers for an index
-* there are no colors
+## TOC
+* [Keys](#keys)
+* [Views](#views)
+* [Templates](#templates)
+* [Python Script bjmd.py](#python-script-bjmdpy)
+* [FAQ](#faq)
+* [Tipps And Tricks](tipps-and-tricks)
 
-## Views
-See [templates/](templates)
-
-* future log
-* year
-* month
-* daily tasklist
-* projects - indexnumbers: [1]
 
 ## Keys
+
 Keys need 4 spaces prefix to be usable formatted
 
     .  task [2]
@@ -25,27 +22,38 @@ Keys need 4 spaces prefix to be usable formatted
     O  event
     !  adds priority
 
-## Example: daily tasklist
+**Example: daily tasklist:**
+
     .   check yesterdays list
     >   call webmaster
     x   [1] Write README.md for bulletjournal.md
     x!  Present for Peter
     o   Peter's birthday party
 
-## Templates/
-These templates are available to copy into your bulltejournal.md:
 
-* Year: 2018, 2018
-* month.md
+## Views
+
+* future log (not yet)
+* year (templates | script)
+* month  (templates | script)
+* daily tasklist  (templates | script)
+* projects - indexnumbers: [1] (not yet)
+
+
+## Templates
+
+See [templates/](templates)
+
 
 ## Python Script bjmd.py
 
-Use the script in a terminal like this:
+Use the [script](scripts) in a terminal like this:
 
 > $>python bjmd.py > mybulletjournal.md
 
-* Use this script to create a bullet journal textfile for a whole year
-* settings (that you may change in the script, of course):
+* Use this script to create a bullet journal textfile for a whole year.
+* The Language of textfile follows the **locale** of your OS.
+* Settings (that you may change in the script, of course):
   * prefix = 4 blanks before day in shortlist
   * suffix = 2 blanks after weekday list
   * this year or specified year
@@ -57,7 +65,10 @@ Use the script in a terminal like this:
 
 ## FAQ
 
-**Why is the default list order descending?** It's because Soren Kierkegaard said, that life must be lived forwards, but can only be understood backwards. Moreover, in a textfile it seems easier to work upwards. But you may change the script easily.
+* **Why is the default list order descending?** It's because Soren Kierkegaard said, that life must be lived forwards, but can only be understood backwards. Moreover, in a textfile it seems easier to work upwards. But you may change the script easily.
+* **What are the advantages of bulletjournaling in a textfile?** You may: search the full text, copy and paste, replace, delete. Moreover, you don't have to estimate how many pages you need to spare for a project or list.
+* **What are the limitations of bulletjournaling in a textfile?** Obviously, you need a laptop or smartphone. Then, in a file there are no pagenumbers for an index. And there is no color-coding.
+
 
 ## Tipps And Tricks
 * Use linux command 'cal' to create calendars as text
