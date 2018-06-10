@@ -52,7 +52,7 @@ See [templates/](templates)
 
 Use the [script](scripts) in a terminal like this:
 
-> $>python bjmd.py > mybulletjournal.md
+> $> python bjmd.py > mybulletjournal.md
 
 * Use this script to create a bullet journal textfile for a whole year.
 * The Language of textfile follows the **locale** of your OS.
