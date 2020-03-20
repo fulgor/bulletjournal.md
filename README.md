@@ -17,18 +17,22 @@ This project is not about software in the first place. It is about the idea of u
 Keys need 4 spaces prefix to be formatted
 
     .  task [2]
-    X  done
+    x  done
     >  postponed
-    O  event
+    o  event
+    a  abandoned
+    w  waiting for [person | circumstance]
     !  adds priority
 
 **Example: daily tasklist:**
 
-    .   check yesterday's list
-    >   call webmaster
-    x   [1] Write README.md for bulletjournal.md
-    x!  Present for Peter
-    o   Peter's birthday party
+    .  check yesterday's list
+    >  call webmaster
+    x  [1] Write README.md for bulletjournal.md
+    x! Buy present for Peter
+    o  Peter's birthday party
+    a  Wash car
+    w  Mary: telephone call
 
 
 ## Views
