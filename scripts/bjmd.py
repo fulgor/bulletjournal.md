@@ -44,8 +44,11 @@ def keys():
     .  task
     .! add priority
     x  done
-    o  event
     >  postponed
+    o  event
+    a  abandoned
+    w  waiting for [person | circumstance]
+
 """
        print key_str
 
