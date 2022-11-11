@@ -9,7 +9,7 @@ This project is not about software in the first place. It is about the idea of u
 * [Templates](#templates)
 * [Python Script bjmd.py](#python-script-bjmdpy)
 * [FAQ](#faq)
-* [Tipps And Tricks](#tipps-and-tricks)
+* [Tips And Tricks](#tipps-and-tricks)
 
 
 ## Keys
