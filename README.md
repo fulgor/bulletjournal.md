@@ -9,7 +9,7 @@ This project is not about software in the first place. It is about the idea of u
 * [Templates](#templates)
 * [Python Script bjmd.py](#python-script-bjmdpy)
 * [FAQ](#faq)
-* [Tipps And Tricks](#tipps-and-tricks)
+* [Tips And Tricks](#tipps-and-tricks)
 
 
 ## Keys
@@ -78,5 +78,5 @@ Use the [script](scripts) in a terminal like this:
 * **What are the limitations of bulletjournaling in a textfile?** Obviously, you need a laptop or smartphone. Then, in a file there are no pagenumbers for an index. And there is no color-coding.
 
 
-## Tipps And Tricks
+## Tips And Tricks
 * Use linux command 'cal' to create calendars as text
