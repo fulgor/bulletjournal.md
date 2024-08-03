@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# author: frag.fulgor@gmail.com
+# author: fulgor@posteo.eu
 # repo: https://github.com/fulgor/bulletjournal.md/blob/master/scripts/bjmd.py
 
 
@@ -18,7 +18,7 @@ suffix = '  '     # 2 blanks after weekday list
 # this year or specified year:
 now = datetime.datetime.now()
 year = now.year
-# year = 2022     # or enter specific year
+# year = 2024     # or enter specific year
 
 # include (1 = on, 0 = off):
 include_keys = 1 
@@ -44,7 +44,7 @@ def keys():
     .  task
     .! add priority
     x  done
-    >  postponed
+       >  task depending on task above (indent 3 more spaces)
     o  event
     a  abandoned
     w  waiting for [person | circumstance]
