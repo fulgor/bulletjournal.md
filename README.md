@@ -14,11 +14,12 @@ This project is not about software in the first place. It is about the idea of u
 
 ## Keys
 
-Keys need 4 spaces prefix to be formatted
+Keys need 4 spaces prefix to be formatted.
+">" is indented 3 more to indicate relation.
 
     .  task [2]
     x  done
-    >  postponed
+       >  task depending on task above
     o  event
     a  abandoned
     w  waiting for [person | circumstance]
@@ -26,13 +27,13 @@ Keys need 4 spaces prefix to be formatted
 
 **Example: daily tasklist:**
 
-    .  check yesterday's list
-    >  call webmaster
-    x  [1] Write README.md for bulletjournal.md
-    x! Buy present for Peter
-    o  Peter's birthday party
+    .  Check yesterday's list
+    x  [1] Update README.md for bulletjournal.md
+    .! Ask Uncle Ben about present for Peter
+       > Buy present for Peter
+    o  2024-08-10: Peter's 23rd birthday
     a  Wash car
-    w  Mary: telephone call
+    w  Mary: call about party
 
 
 ## Views
